@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_alarm
+drawable ic_close
+drawable ic_dnd
+drawable ic_error
+drawable ic_info
+drawable ic_location
+drawable ic_success
+drawable ic_warning
+drawable loading_resize
+id cardView
+id gifImageView
+id image
+id text
+layout toast_custom
+string default_image

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\a830f2e185904eb5ae65134a3c0c17c6\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\a830f2e185904eb5ae65134a3c0c17c6\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\a830f2e185904eb5ae65134a3c0c17c6\\core-1.6.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\a830f2e185904eb5ae65134a3c0c17c6\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\a830f2e185904eb5ae65134a3c0c17c6\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    }
+]

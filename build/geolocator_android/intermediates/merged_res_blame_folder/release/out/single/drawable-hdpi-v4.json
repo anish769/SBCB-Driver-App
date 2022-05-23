@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\geolocator_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\369a17f52b61c32ddb0109052fff1945\\jetified-play-services-base-17.0.0\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\geolocator_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\a830f2e185904eb5ae65134a3c0c17c6\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\geolocator_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\369a17f52b61c32ddb0109052fff1945\\jetified-play-services-base-17.0.0\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\geolocator_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\a830f2e185904eb5ae65134a3c0c17c6\\core-1.6.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\geolocator_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\a830f2e185904eb5ae65134a3c0c17c6\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\geolocator_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\369a17f52b61c32ddb0109052fff1945\\jetified-play-services-base-17.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\geolocator_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\369a17f52b61c32ddb0109052fff1945\\jetified-play-services-base-17.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\geolocator_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\369a17f52b61c32ddb0109052fff1945\\jetified-play-services-base-17.0.0\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\geolocator_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\369a17f52b61c32ddb0109052fff1945\\jetified-play-services-base-17.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\geolocator_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\a830f2e185904eb5ae65134a3c0c17c6\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\geolocator_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\369a17f52b61c32ddb0109052fff1945\\jetified-play-services-base-17.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\geolocator_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\a830f2e185904eb5ae65134a3c0c17c6\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    }
+]

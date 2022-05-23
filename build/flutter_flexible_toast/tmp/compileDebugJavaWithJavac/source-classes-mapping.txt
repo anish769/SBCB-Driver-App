@@ -1,0 +1,4 @@
+sanketvekariya/flutter_flexible_toast/GifImageView.java
+ sanketvekariya.flutter_flexible_toast.GifImageView
+sanketvekariya/flutter_flexible_toast/BuildConfig.java
+ sanketvekariya.flutter_flexible_toast.BuildConfig

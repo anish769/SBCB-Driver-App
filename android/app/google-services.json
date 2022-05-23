@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1036758668825",
+    "project_id": "sbcbproject",
+    "storage_bucket": "sbcbproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036758668825:android:85b74e1be4d4b888db3c88",
+        "android_client_info": {
+          "package_name": "com.techsales.sbcb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036758668825-ncfef6je11asdfn4vjfoiald2jc0eum6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDieb248yt0wgzrWQSwafFfVHpcsyUqvYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036758668825-ncfef6je11asdfn4vjfoiald2jc0eum6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036758668825:android:0201d8de7ed0452edb3c88",
+        "android_client_info": {
+          "package_name": "com.techsales.sbcb_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036758668825-ncfef6je11asdfn4vjfoiald2jc0eum6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDieb248yt0wgzrWQSwafFfVHpcsyUqvYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036758668825-ncfef6je11asdfn4vjfoiald2jc0eum6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

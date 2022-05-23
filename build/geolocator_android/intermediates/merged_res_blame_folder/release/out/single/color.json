@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\geolocator_android\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\369a17f52b61c32ddb0109052fff1945\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\geolocator_android\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\369a17f52b61c32ddb0109052fff1945\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "D:\\Anish\\SBCB Driver April 12\\build\\geolocator_android\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\bhaib\\.gradle\\caches\\transforms-2\\files-2.1\\369a17f52b61c32ddb0109052fff1945\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    }
+]
